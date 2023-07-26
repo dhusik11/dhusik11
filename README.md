@@ -1,5 +1,6 @@
 ### Hi there 👋
 Im Daniel Husik
+
 Software Developer | Transforming Ideas into Exceptional Code | Investor
 
 I have always had a passion for tech. Baldwin Wallace graduate, with a core focus in biology and chemistry. After my studies I worked for a local life sciences company in quality assurance, I developed exceptional skills like critical thinking and goal achievement. I thrive on these skills and enjoy collaborating with others which ultimately led me back into tech. 
